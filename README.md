@@ -1,6 +1,6 @@
 # Construction Lab 2 – Design Patterns and Dependency Injection
 
-## Student
+## Name
 ASURITE: asures81
 
 ## Commit Hashes
