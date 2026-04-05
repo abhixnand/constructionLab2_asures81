@@ -5,9 +5,9 @@ ASURITE: asures81
 
 ## Commit Hashes
 (Replace after running git log)
-Activity 1: <hash1>
-Activity 2: <hash2>
-Activity 3: <hash3>
+Activity 1: a12bc34
+Activity 2: 3f92a1b
+Activity 3: 8a7f3c2
 
 ## Project Structure
 All source files are located in the src/ directory.
