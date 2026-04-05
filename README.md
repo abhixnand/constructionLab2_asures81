@@ -1,18 +1,18 @@
 # Construction Lab 2 – Design Patterns and Dependency Injection
 
-## Name
+##Name
 ASURITE: asures81
 
-## Commit Hashes
-(Replace after running git log)
-Activity 1: a12bc34
-Activity 2: 3f92a1b
-Activity 3: 8a7f3c2
+##Commit Hashes
 
-## Project Structure
+Activity 1: 293fa67
+Activity 2: e45aa23
+Activity 3: 0f0ed2a
+
+##Project Structure
 All source files are located in the src/ directory.
 
-## How to Run
+##How to Run
 
 Activity 1:
 java -Dvi=alt AltMain
@@ -27,5 +27,5 @@ java -Dvi=alt -Des=one Act3Main
 java -Des=two Act3Main
 java Act3Main
 
-## Discussion
+##Discussion
 Strategy and Visitor patterns both allow behavior extension, but differ in purpose. Strategy enables selecting algorithms at runtime, making it ideal for interchangeable logic such as emissions calculation. Visitor allows adding new operations across object structures without modifying those classes, making it suitable for inspection logic. Strategy is simpler and more flexible for behavior changes, while Visitor is powerful for extending functionality across stable class hierarchies.
